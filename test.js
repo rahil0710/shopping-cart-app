@@ -1,6 +1,7 @@
 // test.js
-const cart = require('./cart');
-const payment = require('./payment');
+const cart = require('./Cart.js');
+const payment = require('./payment.js');
+
 
 // Testing cart functionality
 console.log("Testing cart functionality...");
